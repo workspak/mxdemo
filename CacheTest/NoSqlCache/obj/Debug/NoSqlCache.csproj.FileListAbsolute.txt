@@ -1,0 +1,15 @@
+F:\MyCode\CacheTest\NoSqlCache\bin\Debug\NoSqlCache.exe.config
+F:\MyCode\CacheTest\NoSqlCache\obj\Debug\NoSqlCache.csprojResolveAssemblyReference.cache
+F:\MyCode\CacheTest\NoSqlCache\bin\Debug\NoSqlCache.exe
+F:\MyCode\CacheTest\NoSqlCache\bin\Debug\NoSqlCache.pdb
+F:\MyCode\CacheTest\NoSqlCache\bin\Debug\Commons.dll
+F:\MyCode\CacheTest\NoSqlCache\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\MyCode\CacheTest\NoSqlCache\bin\Debug\log4net.dll
+F:\MyCode\CacheTest\NoSqlCache\bin\Debug\Memcached.Client.dll
+F:\MyCode\CacheTest\NoSqlCache\bin\Debug\Newtonsoft.Json.dll
+F:\MyCode\CacheTest\NoSqlCache\bin\Debug\StackExchange.Redis.dll
+F:\MyCode\CacheTest\NoSqlCache\obj\Debug\NoSqlCache.exe
+F:\MyCode\CacheTest\NoSqlCache\obj\Debug\NoSqlCache.pdb
+C:\Users\Administrator\Desktop\CacheTest\NoSqlCache\bin\Debug\NoSqlCache.exe.config
+C:\Users\Administrator\Desktop\CacheTest\NoSqlCache\obj\Debug\NoSqlCache.exe
+C:\Users\Administrator\Desktop\CacheTest\NoSqlCache\obj\Debug\NoSqlCache.pdb
